@@ -165,7 +165,7 @@ Naive example to add direct support for `java.io.File` route argument:
   ["/" (java.io.File. "index.html")])
 ```
 
-Page [shared routes](../advanced/shared_routes.md#using-custom-expander) has an example of an custom `:expand` implementation.
+Page [shared routes](../advanced/shared_routes.md#using-custom-expander) has an example of a custom `:expand` implementation.
 
 ## Route data validation
 
